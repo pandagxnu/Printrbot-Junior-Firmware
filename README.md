@@ -1,4 +1,4 @@
-Printrbot-Plus-Firmware
+Printrbot-Junior-Firmware
 =======================
 
-Configured for a stock Printrbot Plus
+Configured for a stock Printrbot Junior
